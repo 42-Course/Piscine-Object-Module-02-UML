@@ -22,6 +22,13 @@ The UML class diagram depicts the structure of the car system, including classes
     - Stands for private attributes
 
 ***
+
+## REAL Sketch
+
+<img src="https://github.com/42-Course/Piscine-Object-Module-02-UML/blob/main/sketch.jpg">
+
+***
+
 ## UML CLASS DIAGRAM
 
 <img src="./class-diagram.svg">
